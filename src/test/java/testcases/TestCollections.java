@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class TestCollections {
 	
+	//test commit for this file
+	
 		public static void main (String [ ] args){
 		ArrayList <String>names=new ArrayList <String>();
 		names.add ("apple");
