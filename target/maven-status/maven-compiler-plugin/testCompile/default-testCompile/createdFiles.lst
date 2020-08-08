@@ -1,0 +1,7 @@
+pages\LoginPages.class
+stepDefinitions\TestRunner.class
+stepDefinitions\LoginSteps.class
+pagefactory\loginpagefb.class
+testcases\TestCollections.class
+stepDefinitions\FBLoginSteps.class
+stepDefinitions\TestRunner_SingleTag.class
