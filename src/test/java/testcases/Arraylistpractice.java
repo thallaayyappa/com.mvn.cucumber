@@ -8,6 +8,7 @@ public class Arraylistpractice {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//updates made by other team memeber related to this test script
+		//ayyappa updating the changes to this file
 		
 		ArrayList ar = new ArrayList();
 		ar.add("thalla");
