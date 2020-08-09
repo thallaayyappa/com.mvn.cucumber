@@ -16,6 +16,9 @@ public class Arraylistpractice {
 		ar.add("jacke");
 		ar.add("smithtest");
 		
+		//added whatever changes you are looking for
+		System.out.println("yes changes are there");
+		
 		Iterator i =ar.iterator();
 		
 		while(i.hasNext()) {
