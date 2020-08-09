@@ -14,6 +14,7 @@ public class Arraylistpractice {
 		ar.add("thalla");
 		ar.add("ayyappa");
 		ar.add("jacke");
+		ar.add("smithtest");
 		
 		Iterator i =ar.iterator();
 		
