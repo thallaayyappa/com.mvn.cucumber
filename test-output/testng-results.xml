@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2383" started-at="2020-08-02T14:23:53 EDT" finished-at="2020-08-02T14:23:56 EDT">
+  <suite name="Default suite" duration-ms="22866" started-at="2020-08-11T14:03:50 EDT" finished-at="2020-08-11T14:04:13 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2383" started-at="2020-08-02T14:23:53 EDT" finished-at="2020-08-02T14:23:56 EDT">
-      <class name="testcases.RestApiTestCase01">
-        <test-method status="PASS" signature="restapi()[pri:0, instance:testcases.RestApiTestCase01@6acdbdf5]" name="restapi" duration-ms="2336" started-at="2020-08-02T14:23:53 EDT" finished-at="2020-08-02T14:23:56 EDT">
+    <test name="Default test" duration-ms="22866" started-at="2020-08-11T14:03:50 EDT" finished-at="2020-08-11T14:04:13 EDT">
+      <class name="testcases.Isdisplayed">
+        <test-method status="PASS" signature="Login()[pri:0, instance:testcases.Isdisplayed@27a8c74e]" name="Login" duration-ms="22804" started-at="2020-08-11T14:03:50 EDT" finished-at="2020-08-11T14:04:13 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- restapi -->
-      </class> <!-- testcases.RestApiTestCase01 -->
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.Isdisplayed -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
