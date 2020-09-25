@@ -73,7 +73,7 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.user_loads_FB_page()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.step({
   "name": "user enters ayyappa.thalla@gmail.com and Iyyappa@123",
@@ -83,7 +83,7 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.user_enters_username_and_password(java.lang.String,java.lang.String)"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.step({
   "name": "clicks on Login button",
@@ -93,7 +93,7 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.clicks_on_Login_button()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.step({
   "name": "user lands on Dashboard page",
@@ -103,7 +103,7 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.user_lands_on_Dashboard_page()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "name": "FB login Test Case 1",
@@ -123,7 +123,7 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.user_loads_FB_page()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.step({
   "name": "user enters thalla.ayyappa@gmail.com and Iyyappa@123",
@@ -133,7 +133,7 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.user_enters_username_and_password(java.lang.String,java.lang.String)"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.step({
   "name": "clicks on Login button",
@@ -143,7 +143,7 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.clicks_on_Login_button()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.step({
   "name": "user lands on Dashboard page",
@@ -153,6 +153,6 @@ formatter.match({
   "location": "stepDefinitions.FBLoginSteps.user_lands_on_Dashboard_page()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 });

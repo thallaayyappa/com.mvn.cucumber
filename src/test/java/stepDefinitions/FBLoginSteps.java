@@ -2,9 +2,8 @@ package stepDefinitions;
 
 import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.By;
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 //import org.testng.annotations.Test;
 
@@ -50,8 +49,12 @@ public LoginPages lp;
 
 	@Then("user lands on Dashboard page")
 	public void user_lands_on_Dashboard_page() {
-		System.out.println(driver.getTitle());
+		//System.out.println(driver.getTitle());
+		String acutal=driver.getTitle();
+		Assert.assertEquals(acutal, "Facebook");
 		driver.close();
+		
+		
 		
 	}
 
